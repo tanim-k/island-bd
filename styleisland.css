@@ -1,0 +1,53 @@
+h1{
+    color: darkgreen;
+    background-color: gold;
+    width: 50%;
+    font-weight: 100px;
+    border: lime;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+h2{
+    color: rgba(238, 20, 20, 0.658);
+    font-family: sans-serif;
+    font-weight: 800;
+    height: 30px;
+}
+ul{
+    margin: 1px;
+}
+b{
+    text-align: end;
+    background-color: wheat;
+    font-style:unset;
+}
+h4{
+    color: olive;
+    font-family: fantasy;
+    border: outset;
+    width: 45%;
+    margin: 5px;
+}
+h6{
+    font-size: xx-small;
+    color:rgb(28, 27, 31);
+    background: rgba(224, 220, 220, 0.575);
+    font-family:monospace ;
+    height: 10px;
+    width: 40%;
+    text-align: left;
+    margin-left: 20px ;
+    margin-bottom: 40px;
+}
+p{
+    background-color: paleturquoise;
+    font-style: oblique;
+    font-weight: 100px;
+    font-display: 12px;
+    font-size: medium;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px ;
+    margin: 5px 5px 5px 5px;
+}
